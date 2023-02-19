@@ -14,7 +14,7 @@ inpainting-1.5:
     repo_id: stabilityai/sd-vae-ft-mse
   recommended: True
 dreamlike-diffusion-1.0:
-  description: An SD 1.5 model fine tuned on high quality art by dreamlike.art, diffusers version (2.13 BG)
+  description: An SD 1.5 model fine tuned on high quality art by dreamlike.art, diffusers version (2.13 GB)
   format: diffusers
   repo_id: dreamlike-art/dreamlike-diffusion-1.0
   vae:
